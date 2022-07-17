@@ -1,0 +1,13 @@
+name = "JourneyMap Integration"
+filename = "jmi-forge-1.18.2-0.12-18.jar"
+side = "client"
+
+[download]
+url = "https://cdn.modrinth.com/data/M1ZKbfkJ/versions/jmi-forge-1.18.2-0.12-18/jmi-forge-1.18.2-0.12-18.jar"
+hash-format = "sha1"
+hash = "2dbb00346fb1a2e100f25dd1274ee83f84a597bd"
+
+[update]
+[update.modrinth]
+mod-id = "M1ZKbfkJ"
+version = "99hh8zms"
