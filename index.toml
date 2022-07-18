@@ -91,6 +91,11 @@ hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
 
 [[files]]
+file = "mods/configured.pw.toml"
+hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
+metafile = true
+
+[[files]]
 file = "mods/consistencyplus.pw.toml"
 hash = "bf8b04bcf31c66c58162da22fa8ad616019193b96729a6084ffc94376e97b961"
 metafile = true
