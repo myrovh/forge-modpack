@@ -101,11 +101,6 @@ hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
 metafile = true
 
 [[files]]
-file = "mods/consistencyplus.pw.toml"
-hash = "bf8b04bcf31c66c58162da22fa8ad616019193b96729a6084ffc94376e97b961"
-metafile = true
-
-[[files]]
 file = "mods/create.pw.toml"
 hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
 metafile = true
@@ -133,11 +128,6 @@ metafile = true
 [[files]]
 file = "mods/dynamic-asset-generator.pw.toml"
 hash = "1c771c4d65538d8e5d667915e88e9a0e7cd8ad385fb04c2af689cfd6acb58e46"
-metafile = true
-
-[[files]]
-file = "mods/editsign.pw.toml"
-hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
@@ -288,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/polymorph.pw.toml"
 hash = "ed0fcdae68f0f046f6b25c7e8da92b37b5a29aeab8d399e0f2514a3186b1d641"
-metafile = true
-
-[[files]]
-file = "mods/quark-oddities.pw.toml"
-hash = "c0bc72dd17a97fcdfd2f3c9e31310ad7235b5f9905957032b337f6c8d55c893f"
 metafile = true
 
 [[files]]
