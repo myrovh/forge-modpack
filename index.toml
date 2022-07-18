@@ -211,11 +211,6 @@ hash = "83b9d0b703284f0383df813f0809097d78e2710d1044a1a35ae0cc7c98192d67"
 metafile = true
 
 [[files]]
-file = "mods/i-know-what-im-doing-fabric.pw.toml"
-hash = "c80aac3b81fe55562c41193c1df5dce0562c9d9db5389b2c98b46ff025f060fe"
-metafile = true
-
-[[files]]
 file = "mods/immersive-engineering.pw.toml"
 hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
 metafile = true

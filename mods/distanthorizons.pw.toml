@@ -14,4 +14,4 @@ version = "8ctYpkCM"
 
 [option]
 optional=true
-description="See hundreds of chunks into the distance using client side only low lod far chunks"
+description="See hundreds of chunks into the distance using client side only low lod far chunks. Won't work if your using shaders."
