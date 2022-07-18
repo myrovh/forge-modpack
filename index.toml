@@ -361,11 +361,6 @@ hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
 
 [[files]]
-file = "mods/wmitaf.pw.toml"
-hash = "0d57148021f4ad300aa3d6a4ef63b748ae40e7eace4eece1ff8cfceb7aa3dd0f"
-metafile = true
-
-[[files]]
 file = "mods/wthit.pw.toml"
 hash = "d1d30111da762051a712e0ec9b6f7f5c7d62bf67dfe2fb4fdbc8a6e2da08c05b"
 metafile = true
