@@ -166,16 +166,6 @@ hash = "2d0068cf8f42c43384e3fddc8515217160c1fe0c2bab918445be4bd9080acc9e"
 metafile = true
 
 [[files]]
-file = "mods/flowery-structures.pw.toml"
-hash = "d0824a98a7ab544b0d967316a35972d64e5adefb888542ad943c5754553655a0"
-metafile = true
-
-[[files]]
-file = "mods/flowerycore.pw.toml"
-hash = "9f0af0cc7d9cc280a6773f89036e35e366d21cff81f514c3e823f54f60a4be80"
-metafile = true
-
-[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
@@ -273,11 +263,6 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
-metafile = true
-
-[[files]]
-file = "mods/open-loader.pw.toml"
-hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
 metafile = true
 
 [[files]]
