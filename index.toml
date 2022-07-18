@@ -281,6 +281,11 @@ hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
 metafile = true
 
 [[files]]
+file = "mods/open-loader.pw.toml"
+hash = "3572115ea9aaec0360f662d919366d7d70be7d0a6d0169bfff05b781dda3899f"
+metafile = true
+
+[[files]]
 file = "mods/ore-excavation.pw.toml"
 hash = "e25f4063442a566ba062182efbbde695b64a0c51e616781daf92bbf92f9111e7"
 metafile = true
