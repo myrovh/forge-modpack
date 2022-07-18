@@ -36,6 +36,11 @@ hash = "4b9f680bd2c3c2efc44ce41626b2fe5860403a4ec38309ab6fd8a04bac16e8bc"
 metafile = true
 
 [[files]]
+file = "mods/badpackets.pw.toml"
+hash = "725a7a56115036a03a624eaa8ba271a31351ccd6273b5e21c7b7bd2a48962f25"
+metafile = true
+
+[[files]]
 file = "mods/balm.pw.toml"
 hash = "131da55792beda303fa3526bf6b413ba43ca0a0a4a0b811f89d7c38dd6fe3df4"
 metafile = true
@@ -156,6 +161,11 @@ hash = "d0824a98a7ab544b0d967316a35972d64e5adefb888542ad943c5754553655a0"
 metafile = true
 
 [[files]]
+file = "mods/flowerycore.pw.toml"
+hash = "9f0af0cc7d9cc280a6773f89036e35e366d21cff81f514c3e823f54f60a4be80"
+metafile = true
+
+[[files]]
 file = "mods/flywheel.pw.toml"
 hash = "1fb77b30bb9c670b722889ddf1c37854857b4f69e3f1b5dc00b56e70bf73d853"
 metafile = true
@@ -203,6 +213,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
+metafile = true
+
+[[files]]
+file = "mods/kotlin-for-forge.pw.toml"
+hash = "70a683962c1a4eaf5f2090dfb4454b52ad6ad06d01b780e74d69761e0525e258"
 metafile = true
 
 [[files]]
@@ -313,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "45e3cee1482b218c905eb2e2bcdbb15f4843039bffdcb0a7ce1a742aecbcb93e"
+metafile = true
+
+[[files]]
+file = "mods/stonecutter_recipe_tags.pw.toml"
+hash = "ac186746e7ba021dc843ee5cb7c3a624e77975e2c53dd37e94d9bdb99207e995"
 metafile = true
 
 [[files]]
