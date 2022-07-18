@@ -1,13 +1,13 @@
-name = "Roughly Enough Items (REI)"
+name = "Roughly Enough Items Fabric/Forge (REI)"
 filename = "RoughlyEnoughItems-8.3.510.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/nfn13YXA/versions/8.3.510+forge/RoughlyEnoughItems-8.3.510.jar"
 hash-format = "sha1"
 hash = "96b1e221bafd0c264162b5f409bcdd9c9d652b3b"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "nfn13YXA"
-version = "dkO5yq5j"
+[update.curseforge]
+file-id = 3870765
+project-id = 310111

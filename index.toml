@@ -7,7 +7,7 @@ metafile = true
 
 [[files]]
 file = "mods/advancedperipherals.pw.toml"
-hash = "ea239ad92a2a5858f4ec34dac81e0ddba043ad4af40b1475732148681ae9aecc"
+hash = "2f47c84473e8deb56bb3c601a958c99cfca9d9a123fcc8852ae0bd58de7baf54"
 metafile = true
 
 [[files]]
@@ -126,11 +126,6 @@ hash = "6d7b04efc75df1cf683461b8834aa27fcce910f1af30107a943bdef94c0ab408"
 metafile = true
 
 [[files]]
-file = "mods/entityculling.pw.toml"
-hash = "b574a0f870099ef1e69a167cc43256e9274992283f8735c6aaf692fa990cb838"
-metafile = true
-
-[[files]]
 file = "mods/excavated-variants.pw.toml"
 hash = "57bc034f4871b861239a740d608f469b3c3661b07690cb0fbd04bcaf9ae1f86d"
 metafile = true
@@ -201,11 +196,6 @@ hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
 metafile = true
 
 [[files]]
-file = "mods/jei.pw.toml"
-hash = "a24dbc7f6f395deb4d55895517e50312d66c12795fbff3697fc89313de26d167"
-metafile = true
-
-[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "5201feac8889038251de7a3f0920c0b6cbc1fb7d0a4a47b222c2668d03e6b938"
 metafile = true
@@ -216,13 +206,8 @@ hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
 metafile = true
 
 [[files]]
-file = "mods/just-enough-resources-jer.pw.toml"
-hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
-metafile = true
-
-[[files]]
 file = "mods/kubejs.pw.toml"
-hash = "a361cabdac1e7981cf2d58f4bdb1029514c7a2c42b2c780ef0b49319c22f542f"
+hash = "afc58bcbfb7be44d329e8d22bb6a883fda91ce00335baf1105c6a5c48f128b89"
 metafile = true
 
 [[files]]
@@ -281,13 +266,23 @@ hash = "0fc8930f83af79e42983165081b8fee4792bc82d8010557952d79d36ef53f011"
 metafile = true
 
 [[files]]
+file = "mods/roughly-enough-items-hacks.pw.toml"
+hash = "75682dbed1d3c96a8a7268ca480ea7d8d40c0c93b42ef9d1dafc9504a41f891a"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items.pw.toml"
-hash = "881c91d7f922844d3922004223bccd76feeb2c04963be86a42ac3ac950c3da1e"
+hash = "378fa45e789540d217297ca6a89d546e8bfa049d7d35ddc4b692eab121990fc2"
 metafile = true
 
 [[files]]
 file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "88c280d760bfa63f0db5312b91aaeb98e159aa4c91dce30e6399d3e4e9c46804"
+hash = "c2255a8a0ba55e030ecac6bfdfec2b00b69a4f9324d88fb2614143d324336dff"
+metafile = true
+
+[[files]]
+file = "mods/roughly-enough-resources.pw.toml"
+hash = "76852910a2bafff761bd6f634a5c0da1fbd188e3cffa310c72d43b90c85a73ab"
 metafile = true
 
 [[files]]

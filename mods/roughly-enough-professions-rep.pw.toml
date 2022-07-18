@@ -3,11 +3,11 @@ filename = "RoughlyEnoughProfessions-forge-1.18.2-1.0.1.jar"
 side = "both"
 
 [download]
-url = "https://cdn.modrinth.com/data/V8XJ8f5f/versions/1.0.1.2/RoughlyEnoughProfessions-forge-1.18.2-1.0.1.jar"
 hash-format = "sha1"
 hash = "deedf18e439067e52b503ce16ef430238a1f67a6"
+mode = "metadata:curseforge"
 
 [update]
-[update.modrinth]
-mod-id = "V8XJ8f5f"
-version = "PYSUtlxu"
+[update.curseforge]
+file-id = 3751402
+project-id = 597988
