@@ -206,6 +206,16 @@ hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
 metafile = true
 
 [[files]]
+file = "mods/jei-integration.pw.toml"
+hash = "00ceaf843e4b50f1b0c9a9410008f485785a99b9b5e30fd5471a5e630150b4fa"
+metafile = true
+
+[[files]]
+file = "mods/jei.pw.toml"
+hash = "bdae978e23bfb390237af307271096778a3f3a5d283353acfa4dd0568b50433d"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "5201feac8889038251de7a3f0920c0b6cbc1fb7d0a4a47b222c2668d03e6b938"
 metafile = true
@@ -213,6 +223,11 @@ metafile = true
 [[files]]
 file = "mods/journeymap.pw.toml"
 hash = "c98c699ec35e5763115f83672d50bbb143760caeb90a2495e956025cdcb9aa27"
+metafile = true
+
+[[files]]
+file = "mods/just-enough-resources-jer.pw.toml"
+hash = "2f86406baf5c931fbb9b37c0ed93c8d041fe32eb6c9b20b915a351e0a1bfb0fc"
 metafile = true
 
 [[files]]
@@ -283,26 +298,6 @@ metafile = true
 [[files]]
 file = "mods/rhino.pw.toml"
 hash = "8cca82f732097fdc797e860c5cc03b1715a06dc244d0e202444b4f85ec417cf8"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items-hacks.pw.toml"
-hash = "75682dbed1d3c96a8a7268ca480ea7d8d40c0c93b42ef9d1dafc9504a41f891a"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-items.pw.toml"
-hash = "378fa45e789540d217297ca6a89d546e8bfa049d7d35ddc4b692eab121990fc2"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-professions-rep.pw.toml"
-hash = "c2255a8a0ba55e030ecac6bfdfec2b00b69a4f9324d88fb2614143d324336dff"
-metafile = true
-
-[[files]]
-file = "mods/roughly-enough-resources.pw.toml"
-hash = "76852910a2bafff761bd6f634a5c0da1fbd188e3cffa310c72d43b90c85a73ab"
 metafile = true
 
 [[files]]
