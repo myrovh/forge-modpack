@@ -266,6 +266,11 @@ hash = "0fc8930f83af79e42983165081b8fee4792bc82d8010557952d79d36ef53f011"
 metafile = true
 
 [[files]]
+file = "mods/rhino.pw.toml"
+hash = "8cca82f732097fdc797e860c5cc03b1715a06dc244d0e202444b4f85ec417cf8"
+metafile = true
+
+[[files]]
 file = "mods/roughly-enough-items-hacks.pw.toml"
 hash = "75682dbed1d3c96a8a7268ca480ea7d8d40c0c93b42ef9d1dafc9504a41f891a"
 metafile = true
