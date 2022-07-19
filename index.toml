@@ -141,6 +141,16 @@ hash = "1c771c4d65538d8e5d667915e88e9a0e7cd8ad385fb04c2af689cfd6acb58e46"
 metafile = true
 
 [[files]]
+file = "mods/dynamiclights-reforged.pw.toml"
+hash = "0943b652d4e0778622c99801b870208a39782c040a73413648ab93240fcd2088"
+metafile = true
+
+[[files]]
+file = "mods/entityculling.pw.toml"
+hash = "7becbc1a164ee7edf869baac24f0dd2652cc007bfbe11c61deccf1e931226c8f"
+metafile = true
+
+[[files]]
 file = "mods/excavated-variants.pw.toml"
 hash = "57bc034f4871b861239a740d608f469b3c3661b07690cb0fbd04bcaf9ae1f86d"
 metafile = true
@@ -246,6 +256,11 @@ hash = "2d5f25cc0d95c8e253a0a9eced958f75faea9b65bfa806302131ceab2494dd8d"
 metafile = true
 
 [[files]]
+file = "mods/magnesium-extras.pw.toml"
+hash = "186cb1642db76bc34f7bfc2fde6b8e0f53cb64d01d30410bf4ca4cbb5b6bd06e"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -263,6 +278,11 @@ metafile = true
 [[files]]
 file = "mods/notenoughcrashes.pw.toml"
 hash = "5d25c10845d3a2cbb866f38b5c7f9a4350865480f29e7138bd437a3203eaeedc"
+metafile = true
+
+[[files]]
+file = "mods/oculus.pw.toml"
+hash = "c930bf9ffcf0e88ae906fd455ceb487a9be463032b978198defab0ad1012f93d"
 metafile = true
 
 [[files]]
@@ -296,6 +316,11 @@ hash = "8cca82f732097fdc797e860c5cc03b1715a06dc244d0e202444b4f85ec417cf8"
 metafile = true
 
 [[files]]
+file = "mods/rubidium.pw.toml"
+hash = "ea55d78440fa1289587ff06497b92d9cfe988bb4164fcdddf42dd9dc83fd0779"
+metafile = true
+
+[[files]]
 file = "mods/selene.pw.toml"
 hash = "26e591b0b07c8ef07f887eaf3feee21d564c891418e3da0304b39972d6ffb106"
 metafile = true
@@ -323,6 +348,11 @@ metafile = true
 [[files]]
 file = "mods/stonecutter_recipe_tags.pw.toml"
 hash = "ac186746e7ba021dc843ee5cb7c3a624e77975e2c53dd37e94d9bdb99207e995"
+metafile = true
+
+[[files]]
+file = "mods/structory.pw.toml"
+hash = "ed0a2ee3258abba146a7799c363738c3e2d907526a883d36e59e4e83a8b88ec5"
 metafile = true
 
 [[files]]
@@ -379,3 +409,7 @@ metafile = true
 file = "mods/yungs-extras.pw.toml"
 hash = "25ca73ede906cc0162479b6fefaafa3d4c79f97ccd3580cbb3df2755322c7099"
 metafile = true
+
+[[files]]
+file = "readme.md"
+hash = "9f9a05f6dac5847ca900351822a7dff87574f7e5a48457bedf8efb1ec3fa927d"
