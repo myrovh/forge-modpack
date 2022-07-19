@@ -15,14 +15,21 @@
 ## Bug Fixes
 
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
-- [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone): Fix bug exclusive to 1.18.x
+- [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone):
+  Fix bug exclusive to 1.18.x
 - Nether Portal Fix
 - Not Enough Crashes
 
 ## Food
 
-- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight): Expansion to farming and cooking
+- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight):
+  Expansion to farming and cooking
 - [Hefty Crops](https://modrinth.com/mod/hefty-crops): Sometimes crops are big
+
+## Adventure
+
+- Buddycards
+  - Buddycards Expansion
 
 ## Tech
 
@@ -44,7 +51,8 @@
   worldgen structures
 - [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village):
   Big fancy villages
-- [Excavated Variants](https://www.curseforge.com/minecraft/mc-mods/excavated-variants): Automatically add ore types for stone variants
+- [Excavated Variants](https://www.curseforge.com/minecraft/mc-mods/excavated-variants):
+  Automatically add ore types for stone variants
 - Yungs Better Mineshafts
 - Yungs Better Strongholds
 - Yungs Extras
@@ -75,7 +83,8 @@
   mod list
 - [Configured](https://www.curseforge.com/minecraft/mc-mods/configured):
   Interface for setting mod options
-- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge): Force load chunks
+- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge):
+  Force load chunks
 - Polymorph
 - WTHIT
 
@@ -84,7 +93,8 @@
 - Waystones
 - Quark
 - Natures Compass
-- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod): Recover items from grave when you die
+- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod):
+  Recover items from grave when you die
 - [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): Cool
   extra mobs
 - [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts): Various

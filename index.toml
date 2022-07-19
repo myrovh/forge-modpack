@@ -66,6 +66,16 @@ hash = "0096c0b263612808a28a793e822527cff91d8e84bd4b898de8c229f15a7b3a7c"
 metafile = true
 
 [[files]]
+file = "mods/buddycards-expansions.pw.toml"
+hash = "3bc3b6cc262e0f924f87d2d5ab164e2a2122314038999eb98f81baac88319e29"
+metafile = true
+
+[[files]]
+file = "mods/buddycards.pw.toml"
+hash = "c17998ab6e6e1a1d852e43cc6df54d71247d81ede6e3d91b9389e36ca9a4a286"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "d327839546f676861ab40202cf9b1a20bea90950e80231e7df2f5631fa115bb3"
 metafile = true
