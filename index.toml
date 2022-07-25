@@ -22,7 +22,7 @@ metafile = true
 
 [[files]]
 file = "mods/architectury-api.pw.toml"
-hash = "b269cdcedbb3c4c24475380171b72594ea288de8254cf42fb679a65ffefe94df"
+hash = "ee6842d5149f3dacc17f1c3b7c9e8cdf55131185a98df5c5845cec52841f0096"
 metafile = true
 
 [[files]]
@@ -67,7 +67,7 @@ metafile = true
 
 [[files]]
 file = "mods/buddycards.pw.toml"
-hash = "c17998ab6e6e1a1d852e43cc6df54d71247d81ede6e3d91b9389e36ca9a4a286"
+hash = "d515bd28ab171e97e77315c70aa856c52ec2ae1712974a5b9fd32d6bed47e529"
 metafile = true
 
 [[files]]
@@ -232,7 +232,7 @@ metafile = true
 
 [[files]]
 file = "mods/journeymap-integration.pw.toml"
-hash = "a0a0c55ab8227d39ed78ea21c518e0b7582f6d4a80d208748acd4f464f704fda"
+hash = "cc26a366b70f9bddc1097d8282c65739c916c6f9eb883efd1f24642f96dc6eb9"
 metafile = true
 
 [[files]]
@@ -317,7 +317,7 @@ metafile = true
 
 [[files]]
 file = "mods/rhino.pw.toml"
-hash = "4a0250281f511dde4c46b577c2547052fb5999ac065defd6dc3d3058cb5c7069"
+hash = "6060f946f071cec9b66f96040bf36901241bce5e1d1de7bf2ba485dbea83df98"
 metafile = true
 
 [[files]]
