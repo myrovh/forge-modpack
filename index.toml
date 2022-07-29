@@ -1,6 +1,14 @@
 hash-format = "sha256"
 
 [[files]]
+file = "config/jei/jei-client.ini"
+hash = "1e09b625929ba806b97988bc50b0d94297f2080d590facd1fa87ce9cf90f5f3c"
+
+[[files]]
+file = "config/quark-common.toml"
+hash = "619d1bbb58990ac82dae539173bda19a3385bcf138d50b1eaa620b2d08fdc0ed"
+
+[[files]]
 file = "mods/adorn.pw.toml"
 hash = "c7d945d10983e24c101cb18614a605c2c3a25322348b68bb8666addbc3fe4fba"
 metafile = true
