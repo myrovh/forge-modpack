@@ -106,6 +106,11 @@ hash = "91310bd661de6d8019a7a9d39c761d5005d1bd1bd9b4f0a7e49296640fe6a33f"
 metafile = true
 
 [[files]]
+file = "mods/collective.pw.toml"
+hash = "6547b4efe1ad791a84b6e7d68f99e3282a2c714a35e8021e94430a2675ec095f"
+metafile = true
+
+[[files]]
 file = "mods/configured.pw.toml"
 hash = "33436dd644cc903c0006df71f7f846f46a12e0338a2865eb5826fa0205120731"
 metafile = true
@@ -113,6 +118,16 @@ metafile = true
 [[files]]
 file = "mods/create.pw.toml"
 hash = "d7bf70918b7b4f33fe50ca4f3b20cb6a3b5d49fa35ca58217190f579adac664a"
+metafile = true
+
+[[files]]
+file = "mods/creatures-and-beasts.pw.toml"
+hash = "300091aa3892209857d9f7be9108230dc0517fcb284ec90fda0874b063d48a43"
+metafile = true
+
+[[files]]
+file = "mods/creeper-overhaul.pw.toml"
+hash = "831f7d8e77b64e78a638bc9dee0bdfe07b34d96cff91f976d91141f335088de1"
 metafile = true
 
 [[files]]
@@ -138,6 +153,11 @@ metafile = true
 [[files]]
 file = "mods/distanthorizons.pw.toml"
 hash = "1113466d2c4b8fb851cd7c58b955b53424e4a2bef11069d85c5431feac7c9eae"
+metafile = true
+
+[[files]]
+file = "mods/duckling.pw.toml"
+hash = "6e771804b2cecfc70ea19170b5adee270bb2ac2dc7e51beb570f892f3356d8d0"
 metafile = true
 
 [[files]]
@@ -198,6 +218,11 @@ metafile = true
 [[files]]
 file = "mods/ftb-teams-forge.pw.toml"
 hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
+metafile = true
+
+[[files]]
+file = "mods/geckolib.pw.toml"
+hash = "c461c17c32603d6fc2545ea5af76b02324183546864e964a5a397d76b7862ea7"
 metafile = true
 
 [[files]]
@@ -266,6 +291,11 @@ hash = "186cb1642db76bc34f7bfc2fde6b8e0f53cb64d01d30410bf4ca4cbb5b6bd06e"
 metafile = true
 
 [[files]]
+file = "mods/naturalist.pw.toml"
+hash = "015833777d26eacdcca8857ab2e5e62f5bc651aded0be64c4ea782aac1c2e14a"
+metafile = true
+
+[[files]]
 file = "mods/natures-compass.pw.toml"
 hash = "e3b607348fc4084c8aece8cccaa3c58af8d12e518c305bdbe044eabc2bb0b472"
 metafile = true
@@ -298,6 +328,11 @@ metafile = true
 [[files]]
 file = "mods/patchouli.pw.toml"
 hash = "ae4c3617170709ac560c8113f1526193e79750735d12bbc2d5119f518b866799"
+metafile = true
+
+[[files]]
+file = "mods/pneumaticcraft-repressurized.pw.toml"
+hash = "740fe3ed2de2c496b14cba790521b7ab7dc8f303964500eb74f41cdf5949093d"
 metafile = true
 
 [[files]]
@@ -386,6 +421,11 @@ hash = "0cdee9e63e143cf5550a261bff1c56297896db2e6fbbbc5e2df57035798aa043"
 metafile = true
 
 [[files]]
+file = "mods/villager-names.pw.toml"
+hash = "7836decf94a3dadbe6ed9b91ed24b652cb128512044608f62e26c2617e4048a0"
+metafile = true
+
+[[files]]
 file = "mods/waystones.pw.toml"
 hash = "b209c7da3afa46bee40dc174aa9cf7a13abf5ef9c987976848e16ce4c199d576"
 metafile = true
@@ -418,3 +458,8 @@ metafile = true
 [[files]]
 file = "readme.md"
 hash = "9f9a05f6dac5847ca900351822a7dff87574f7e5a48457bedf8efb1ec3fa927d"
+
+[[files]]
+file = "resourcepacks/creeper-overhaul-overhaul.pw.toml"
+hash = "e2c53e78f6f114af2a8f2039eb76ae4c948bb0d524b002466f3a2523f5d9db1b"
+metafile = true

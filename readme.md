@@ -29,7 +29,6 @@
 ## Adventure
 
 - Buddycards
-  - Buddycards Expansion
 
 ## Tech
 
@@ -42,6 +41,7 @@
 - Refined Storage
 - Sophisticated Backpacks
 - Sophisticated Storage
+- PneumaticCraft: Repressurized
 
 ## Worldgen
 
@@ -58,6 +58,15 @@
 - Yungs Extras
 - [Chunky Pregenerator](https://modrinth.com/mod/chunky): Tools to pregenerate
   chunks
+
+## Mobs
+
+- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): Cool
+  extra mobs
+- Creeper Overhaul
+- Duckling
+- Creatures and Beasts
+- Naturalist
 
 ## Decoration
 
@@ -92,11 +101,10 @@
 
 - Waystones
 - Quark
+- Villager Names
 - Natures Compass
 - [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod):
   Recover items from grave when you die
-- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): Cool
-  extra mobs
 - [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts): Various
   treasure items
 - [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra):
