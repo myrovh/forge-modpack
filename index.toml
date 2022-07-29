@@ -221,6 +221,11 @@ hash = "7e52a7a68d42f9dfb6c684a627dfd9d729c4761d81782c15f0f1ee4cdbaeaaa7"
 metafile = true
 
 [[files]]
+file = "mods/ftb-ultimine-forge.pw.toml"
+hash = "e94099ca3e2a2baa133f298728d7e6434e60da33804ba4b2489d1fd857e83ba1"
+metafile = true
+
+[[files]]
 file = "mods/geckolib.pw.toml"
 hash = "c461c17c32603d6fc2545ea5af76b02324183546864e964a5a397d76b7862ea7"
 metafile = true
@@ -273,11 +278,6 @@ metafile = true
 [[files]]
 file = "mods/kotlin-for-forge.pw.toml"
 hash = "70a683962c1a4eaf5f2090dfb4454b52ad6ad06d01b780e74d69761e0525e258"
-metafile = true
-
-[[files]]
-file = "mods/kubejs.pw.toml"
-hash = "172b0a56df51a8f3406a98e07c738f196c99c614e559a40bdc67ff08b3183d45"
 metafile = true
 
 [[files]]
@@ -353,11 +353,6 @@ metafile = true
 [[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "0fc8930f83af79e42983165081b8fee4792bc82d8010557952d79d36ef53f011"
-metafile = true
-
-[[files]]
-file = "mods/rhino.pw.toml"
-hash = "6060f946f071cec9b66f96040bf36901241bce5e1d1de7bf2ba485dbea83df98"
 metafile = true
 
 [[files]]
@@ -477,7 +472,7 @@ metafile = true
 
 [[files]]
 file = "readme.md"
-hash = "9f9a05f6dac5847ca900351822a7dff87574f7e5a48457bedf8efb1ec3fa927d"
+hash = "979aa923f39b1caecf5c2c6b5e0845d4d243c43f104b1bae689d6e56ef9acf2e"
 
 [[files]]
 file = "resourcepacks/creeper-overhaul-overhaul.pw.toml"
