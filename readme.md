@@ -42,6 +42,10 @@
 - Sophisticated Backpacks
 - Sophisticated Storage
 - PneumaticCraft: Repressurized
+- Tiny Redstone
+- Tiny Gates
+- TIny Pipes
+- Ranged Wireless Redstone
 
 ## Worldgen
 

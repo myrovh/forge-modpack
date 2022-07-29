@@ -346,6 +346,11 @@ hash = "323bf0949b42dbb97a7c35d17f436a7b2c7eb463cc97f46a54469ff3a0bad027"
 metafile = true
 
 [[files]]
+file = "mods/ranged-wireless-redstone.pw.toml"
+hash = "73904e83ec3c2f20c0906b9e3cda7efa829c864085df685243a28e236867f33c"
+metafile = true
+
+[[files]]
 file = "mods/refined-storage.pw.toml"
 hash = "0fc8930f83af79e42983165081b8fee4792bc82d8010557952d79d36ef53f011"
 metafile = true
@@ -403,6 +408,21 @@ metafile = true
 [[files]]
 file = "mods/terralith.pw.toml"
 hash = "62c4c00ecc9ca4ca806808ed111578bfa358a44646c61afa31db31055bceed87"
+metafile = true
+
+[[files]]
+file = "mods/tiny-gates.pw.toml"
+hash = "5e268822eafc369a68210c77fb53dad7bfe4e8c0389153c1c24c087a6473c178"
+metafile = true
+
+[[files]]
+file = "mods/tiny-pipes.pw.toml"
+hash = "39c2dd2bb9defe19ef74aabdee3ce87ff1a0c312b7c540a91f30e56485182192"
+metafile = true
+
+[[files]]
+file = "mods/tiny-redstone.pw.toml"
+hash = "efd338beb9232b67a7596af0848da1087911487d2d8e22ef93f31c6274b68cc5"
 metafile = true
 
 [[files]]
