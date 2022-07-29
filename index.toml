@@ -82,7 +82,7 @@ metafile = true
 
 [[files]]
 file = "mods/cc-tweaked.pw.toml"
-hash = "bcd5280a441da6e4692d6293f70cacfa8ec8670b8c9029fd93251f06de74f471"
+hash = "771ab993b1afb566ca4a2c4b29046968fe8d494f633e7195458e1105786b86c7"
 metafile = true
 
 [[files]]
@@ -217,7 +217,7 @@ metafile = true
 
 [[files]]
 file = "mods/immersive-engineering.pw.toml"
-hash = "fd212d3a0013876ab1b18151f38f80cd265955cf4d0d6e148eb5edd969adf501"
+hash = "1afe8713c2f7b4fe8eb2bc2fddbb98688afe51709dbb52a24569d79c2745054e"
 metafile = true
 
 [[files]]
@@ -227,7 +227,7 @@ metafile = true
 
 [[files]]
 file = "mods/jei.pw.toml"
-hash = "3e6d5d17bdaa70ae054b4ee2ed06fdad1f9b56cce452af0105d2956ea239a7da"
+hash = "62fa6910ee59ed4fb18de8948b549256f36951ba6496f8e0659162b20f2eaa25"
 metafile = true
 
 [[files]]
@@ -252,7 +252,7 @@ metafile = true
 
 [[files]]
 file = "mods/kubejs.pw.toml"
-hash = "5f53263a72f825819c318c293ba7600b37ccc1472f0a331a5ffd2ba2345e81c5"
+hash = "172b0a56df51a8f3406a98e07c738f196c99c614e559a40bdc67ff08b3183d45"
 metafile = true
 
 [[files]]
@@ -332,17 +332,17 @@ metafile = true
 
 [[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
-hash = "7811cc6c37087fccbb33f90481030fba9939a68241128b6ed92bfb03c5d7213f"
+hash = "4048cce544b50801275b6bb6ee7054ba82d0c4d9a95e9e9d574773ec009eba6f"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-core.pw.toml"
-hash = "8a617578b75c17f7f978db63b60459e4ab671a077771608c230de33dcb48ddab"
+hash = "1519b9b6f36e55614c76c7321620917507fd0f90c2ce95cdacd673da9d9c5218"
 metafile = true
 
 [[files]]
 file = "mods/sophisticated-storage.pw.toml"
-hash = "b2316dc6687de46f82a7ce840a52382ff2b97b3e71a8a5d58f2ae34d95dc37f4"
+hash = "b37c8411024d2a2186fed9a075e6c9502ba77b0ddc59bf45e7ac5a23a4415151"
 metafile = true
 
 [[files]]
