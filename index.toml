@@ -319,11 +319,6 @@ hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
 metafile = true
 
 [[files]]
-file = "mods/stonecutter_recipe_tags.pw.toml"
-hash = "f66874e2837237803d281feb75ab7710f822bf41b0edbd517d07b5c6a6358c88"
-metafile = true
-
-[[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2c43beff98a8f7e62b83dfa201d10ab0e563befcb8c2c4588d3c778d9e99d0cc"
 metafile = true
