@@ -374,10 +374,6 @@ hash = "e01c79424f10d3b3a362352eb268aa893a08ee14d3ea947dc5c1adcbcd02fcfb"
 metafile = true
 
 [[files]]
-file = "readme.md"
-hash = "979aa923f39b1caecf5c2c6b5e0845d4d243c43f104b1bae689d6e56ef9acf2e"
-
-[[files]]
 file = "resourcepacks/creeper-overhaul-overhaul.pw.toml"
 hash = "e2c53e78f6f114af2a8f2039eb76ae4c948bb0d524b002466f3a2523f5d9db1b"
 metafile = true
