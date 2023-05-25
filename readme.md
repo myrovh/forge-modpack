@@ -1,122 +1,86 @@
 ## Optimisation
 
 - [FerriteCore](https://modrinth.com/mod/ferrite-core): Optimise memory usage
-- [EntityCulling](https://modrinth.com/mod/entityculling): Don't render things
-  you can't see
-- Starlight
-- [Rubidium](https://www.curseforge.com/minecraft/mc-mods/rubidium): Unofficial
-  fork of Sodium for forge
-  - [Magnesium/Rubidium Extras](https://www.curseforge.com/minecraft/mc-mods/magnesium-extras)
-  - [Magnesium/Rubidium Dynamic Lights](https://www.curseforge.com/minecraft/mc-mods/dynamiclights-reforged):
-    Dynamic lights
-  - [Oculus](https://www.curseforge.com/minecraft/mc-mods/oculus): Shaders
-    support **optional** won't work with Distant Horizons
+- [EntityCulling](https://modrinth.com/mod/entityculling)
+- [Starlight](https://modrinth.com/mod/starlight-forge)
+- [Rubidium](https://modrinth.com/mod/rubidium)
+  - [Rubidium Extras](https://modrinth.com/mod/rubidium-extra)
+  - [Rubidium Options](https://modrinth.com/mod/textrues-rubidium-options)
+  - [Oculus](https://modrinth.com/mod/oculus): Shaders support **optional** won't work with Distant Horizons
 
 ## Bug Fixes
 
 - [AttributeFix](https://www.curseforge.com/minecraft/mc-mods/attributefix)
-- [Feature NBT Deadlock Be Gone](https://modrinth.com/mod/feature-nbt-deadlock-be-gone):
-  Fix bug exclusive to 1.18.x
-- Nether Portal Fix
-- Not Enough Crashes
-
-## Food
-
-- [Farmer's Delight](https://www.curseforge.com/minecraft/mc-mods/farmers-delight):
-  Expansion to farming and cooking
-- [Hefty Crops](https://modrinth.com/mod/hefty-crops): Sometimes crops are big
-
-## Adventure
-
-- Buddycards
+- [Attribute Tooltip Fix](https://modrinth.com/mod/attribute-tooltip-fix)
+- [Nether Portal Fix](https://modrinth.com/mod/netherportalfix)
+- [Not Enough Crashes](https://modrinth.com/mod/notenoughcrashes)
 
 ## Tech
 
-- [Create](https://www.curseforge.com/minecraft/mc-mods/create): Build
-  contraptions
-- [Botania](https://www.curseforge.com/minecraft/mc-mods/botania): Plant magic
+- [Create](https://www.curseforge.com/minecraft/mc-mods/create): Build contraptions
 - [CC: Tweaked](https://modrinth.com/mod/cc-tweaked): Computers in minecraft
   - [Advanced Peripherals](https://modrinth.com/mod/advancedperipherals)
-- Immersive Engineering
-- Refined Storage
-- Sophisticated Backpacks
-- Sophisticated Storage
-- PneumaticCraft: Repressurized
-- Tiny Redstone
-- Tiny Gates
-- TIny Pipes
-- Ranged Wireless Redstone
+- [Sophisticated Backpacks](https://www.curseforge.com/minecraft/mc-mods/sophisticated-backpacks)
+- [Sophisticated Storage](https://www.curseforge.com/minecraft/mc-mods/sophisticated-storage)
 
 ## Worldgen
 
-- Terralith
-- Unearthed
-- [Structory](https://www.curseforge.com/minecraft/mc-mods/structory): Extra
-  worldgen structures
-- [ChoiceTheorem's Overhauled Village](https://modrinth.com/mod/ct-overhaul-village):
-  Big fancy villages
-- [Excavated Variants](https://www.curseforge.com/minecraft/mc-mods/excavated-variants):
-  Automatically add ore types for stone variants
-- Yungs Better Mineshafts
-- Yungs Better Strongholds
-- Yungs Extras
+- [Terralith](https://modrinth.com/mod/terralith)
+- [Incendium](https://modrinth.com/mod/incendium)
+- [Nullscape](https://modrinth.com/mod/nullscape)
+- [Treeplacer](https://modrinth.com/mod/treeplacer)
+- [Treeplacer - Terralith Addon](https://modrinth.com/datapack/treeplacer-terralith-addon)
+- [Excavated Variants](https://modrinth.com/mod/excavated_variants): Automatically add ore types for stone variants
 - [Chunky Pregenerator](https://modrinth.com/mod/chunky): Tools to pregenerate
   chunks
 
 ## Mobs
 
-- [Alex's Mobs](https://www.curseforge.com/minecraft/mc-mods/alexs-mobs): Cool
-  extra mobs
-- Creeper Overhaul
-- Duckling
-- Creatures and Beasts
-- Naturalist
+- [Creeper Overhaul](https://modrinth.com/mod/creeper-overhaul)
+- [Duckling](https://modrinth.com/mod/duckling)
+- [Naturalist](https://modrinth.com/mod/naturalist)
 
 ## Decoration
 
 - [Adorn](https://modrinth.com/mod/adorn): Decoration and furniture
-- [Bricklayer](https://www.curseforge.com/minecraft/mc-mods/bricklayer): More
-  brick types
-- [Decorative Blocks](https://www.curseforge.com/minecraft/mc-mods/decorative-blocks):
-  Nice looking blocks
-- Macaws's Bridges
-- Neko's Enchanted Books
-- Supplementaries
-- Twigs
+- [Neko's Enchanted Books](https://modrinth.com/mod/nekos-enchanted-books)
+- [Supplementaries](https://modrinth.com/mod/supplementaries)
+- [Twigs](https://modrinth.com/mod/twigs)
 
 ## UI
 
-- JEI
-- JEI Integrations
-- Just Enough Resources
-- Journeymap
-- Journeymap Itegration
+- [Roughly Enough Items](https://modrinth.com/mod/rei)
+    - [Roughly Enough Items: Server components](https://modrinth.com/mod/roughly-enough-items-server-component)
+    - [Just Enough Resources](https://modrinth.com/mod/just-enough-resources-jer)
+- [Journeymap](https://modrinth.com/mod/journeymap)
+    - [Journeymap Integration](https://modrinth.com/mod/journeymap-integration)
 - [BetterF3](https://modrinth.com/mod/betterf3): Better debug hud
-- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue): Better
-  mod list
-- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured):
-  Interface for setting mod options
-- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge):
-  Force load chunks
-- Polymorph
-- WTHIT
+- [Catalogue](https://www.curseforge.com/minecraft/mc-mods/catalogue): Better mod list
+- [Configured](https://www.curseforge.com/minecraft/mc-mods/configured): Interface for setting mod options
+- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge): Force load chunks
+- [Polymorph](https://modrinth.com/mod/polymorph)
+- [WTHIT](https://modrinth.com/mod/wthit)
 
 ## Misc
 
-- Waystones
-- Quark
-- Villager Names
-- Natures Compass
-- [GraveStone Mod](https://www.curseforge.com/minecraft/mc-mods/gravestone-mod):
-  Recover items from grave when you die
-- [Artifacts](https://www.curseforge.com/minecraft/mc-mods/artifacts): Various
-  treasure items
-- [Curious Elytra](https://www.curseforge.com/minecraft/mc-mods/curious-elytra):
-  Put elytra in curio slot
-- [Charm of Undying](https://www.curseforge.com/minecraft/mc-mods/charm-of-undying):
-  Put totem of undying in curio slot
+- [Patchouli](https://www.curseforge.com/minecraft/mc-mods/patchouli)
+- [Waystones](https://modrinth.com/mod/waystones)
+- [Quark](https://modrinth.com/mod/quark)
+- [Villager Names](https://modrinth.com/mod/villager-names-serilum)
+- [GraveStone Mod](https://modrinth.com/mod/gravestone-mod): Recover items from grave when you die
+- [Artifacts](https://modrinth.com/mod/artifacts): Various treasure items
+- [Elytra Slot](https://modrinth.com/mod/elytra-slot)
+- [Charm of Undying](https://modrinth.com/mod/charm-of-undying): Put totem of undying in curio slot
+- [Ore Excavation](https://www.curseforge.com/minecraft/mc-mods/ore-excavation)
+- [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
+- [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
 
 ## Visuals
 
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons): See hundreds of
   chunks **optional** won't work with oculus
+- [Incendium Optional Resourcepack](https://modrinth.com/resourcepack/incendium-optional-resourcepack)
+
+## Libs
+
+- [Resourceful Config](https://modrinth.com/mod/resourceful-config)

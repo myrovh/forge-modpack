@@ -1,0 +1,13 @@
+name = "Incendium Optional Resourcepack"
+filename = "Incendium_Optional_Resourcepack_1.19.3_v5.3.4.zip"
+side = "both"
+
+[download]
+url = "https://cdn.modrinth.com/data/HfNmMQ9E/versions/3BiDijy2/Incendium_Optional_Resourcepack_1.19.3_v5.3.4.zip"
+hash-format = "sha1"
+hash = "711f482ca92a7326dfd04e4bf03ed1fb46e3d9e8"
+
+[update]
+[update.modrinth]
+mod-id = "HfNmMQ9E"
+version = "3BiDijy2"

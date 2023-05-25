@@ -3,11 +3,11 @@ filename = "supplementaries-1.19.2-2.3.13.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/fFEIiSDQ/versions/ZCsI7lTg/supplementaries-1.19.2-2.3.13.jar"
 hash-format = "sha1"
 hash = "572e1590fa1e7ce64c81f4689659faf3c57f763a"
-mode = "metadata:curseforge"
 
 [update]
-[update.curseforge]
-file-id = 4548862
-project-id = 412082
+[update.modrinth]
+mod-id = "fFEIiSDQ"
+version = "ZCsI7lTg"
