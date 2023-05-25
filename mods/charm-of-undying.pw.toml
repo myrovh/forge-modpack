@@ -1,13 +1,13 @@
-name = "Charm of Undying (Forge)"
-filename = "curioofundying-forge-1.18-5.3.0.0.jar"
+name = "Charm of Undying"
+filename = "charmofundying-forge-6.2.0+1.19.2.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/b5GyyYkp/versions/JRsacbTY/charmofundying-forge-6.2.0%2B1.19.2.jar"
 hash-format = "sha1"
-hash = "f7add4f447569de769c18536f85f37f5950fb97b"
-mode = "metadata:curseforge"
+hash = "483cb3a6edd71b533a70fe4c80ffd6bea088665b"
 
 [update]
-[update.curseforge]
-file-id = 3553486
-project-id = 316873
+[update.modrinth]
+mod-id = "b5GyyYkp"
+version = "JRsacbTY"

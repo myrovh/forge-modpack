@@ -1,18 +1,17 @@
 name = "Oculus"
-filename = "oculus-mc1.18.2-1.2.5.jar"
+filename = "oculus-mc1.19.2-1.2.8a.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "79d2918f713f789df0c890bfe3c6124f10d7f407"
+hash = "7ee015f8833af272bfa7aaf3e27b16a57117bd23"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3821406
+file-id = 4299147
 project-id = 581495
 
-
 [option]
-optional=true
-description="Shader support for forge without optifine. Don't use with Distant Horizons."
+optional = true
+description = "Shader support for forge without optifine. Don't use with Distant Horizons."

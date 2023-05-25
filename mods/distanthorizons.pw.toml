@@ -1,17 +1,17 @@
 name = "Distant Horizons"
-filename = "DistantHorizons-1.6.5a-1.18.2.jar"
+filename = "DistantHorizons-1.6.9a-1.19.2.jar"
 side = "client"
 
 [download]
-url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.5a-1.18.2/DistantHorizons-1.6.5a-1.18.2.jar"
+url = "https://cdn.modrinth.com/data/uCdwusMi/versions/1.6.9a-1.19.2/DistantHorizons-1.6.9a-1.19.2.jar"
 hash-format = "sha1"
-hash = "f83771589e1e7696c93c43dd7b94bc054672a4da"
+hash = "a77fb15f91a7b2838c9d402e9e01ed46a3f0cd02"
 
 [update]
 [update.modrinth]
 mod-id = "uCdwusMi"
-version = "8ctYpkCM"
+version = "yEUygWBv"
 
 [option]
-optional=true
-description="See hundreds of chunks into the distance using client side only low lod far chunks. Won't work if your using shaders."
+optional = true
+description = "See hundreds of chunks into the distance using client side only low lod far chunks. Won't work if your using shaders."

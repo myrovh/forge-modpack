@@ -1,13 +1,13 @@
 name = "Ore Excavation"
-filename = "OreExcavation-1.10.162.jar"
+filename = "OreExcavation-1.11.166.jar"
 side = "both"
 
 [download]
 hash-format = "sha1"
-hash = "dbbb9fc621aaa9020c7ecfa5b637684e43393e4c"
+hash = "4f9741427101251c39ca8c6a9c16241461cec26b"
 mode = "metadata:curseforge"
 
 [update]
 [update.curseforge]
-file-id = 3831679
+file-id = 3983796
 project-id = 250898

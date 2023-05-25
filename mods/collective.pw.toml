@@ -1,13 +1,13 @@
-name = "Collective (Forge)"
-filename = "collective-1.18.2-4.37.jar"
+name = "Collective"
+filename = "collective-1.19.2-6.53.jar"
 side = "both"
 
 [download]
+url = "https://cdn.modrinth.com/data/e0M1UDsY/versions/ODKDGTON/collective-1.19.2-6.53.jar"
 hash-format = "sha1"
-hash = "569e5dfa4e59de61f1d337cd755ea6b5b6d06506"
-mode = "metadata:curseforge"
+hash = "fdb545999dde092a17c56ba30491cdcdb6226f1e"
 
 [update]
-[update.curseforge]
-file-id = 3913027
-project-id = 342584
+[update.modrinth]
+mod-id = "e0M1UDsY"
+version = "ODKDGTON"
