@@ -1,16 +1,17 @@
 hash-format = "sha256"
 
 [[files]]
-file = "config/jei/jei-client.ini"
-hash = "1e09b625929ba806b97988bc50b0d94297f2080d590facd1fa87ce9cf90f5f3c"
-
-[[files]]
 file = "config/quark-common.toml"
 hash = "619d1bbb58990ac82dae539173bda19a3385bcf138d50b1eaa620b2d08fdc0ed"
 
 [[files]]
 file = "mods/adorn.pw.toml"
 hash = "fc26aa88f0e3959f0e3b3defee94279d398fcfdb71b9337fbefb1ea255930423"
+metafile = true
+
+[[files]]
+file = "mods/alternate-current.pw.toml"
+hash = "3b456838b481e7f8a31a2a59ec9f7bf4c8564710843fae7f5161e3054269955f"
 metafile = true
 
 [[files]]
@@ -124,13 +125,28 @@ hash = "c45c1ada91ed9dab9be7ea77028005689074a154e3df3fedb0791fbc2ffea24b"
 metafile = true
 
 [[files]]
+file = "mods/dynamiccrosshair.pw.toml"
+hash = "a152aebefcb0af4ddc8300904962f05a5f369669cdd85f4868780404c519b1ef"
+metafile = true
+
+[[files]]
 file = "mods/elytra-slot.pw.toml"
 hash = "565577c5461a77cfd7bfc000720c8857795b45596ea5f9c8736251aefe328b2c"
 metafile = true
 
 [[files]]
+file = "mods/entity-model-features.pw.toml"
+hash = "adebf74557372554dd830d53c1512b231345ec77ac0ed74de2c3a940c5e1689e"
+metafile = true
+
+[[files]]
 file = "mods/entityculling.pw.toml"
 hash = "731f105242a907173abc3ad888114faa9a71f3915a89fe4e694f4c45d66db6fe"
+metafile = true
+
+[[files]]
+file = "mods/entitytexturefeatures.pw.toml"
+hash = "3d157a080e4ce21c926901772c3eeaef674f54360ca74a771f0700614800158d"
 metafile = true
 
 [[files]]
@@ -194,6 +210,16 @@ hash = "38277c071e79128e516e6f83322775dfd2324a21c4812453e02067b23e3f3b09"
 metafile = true
 
 [[files]]
+file = "mods/jade-addons-forge.pw.toml"
+hash = "851c2cb5a6ec430f8df11784d97f6762949dfc2b056d1fda465646f7867c4cdf"
+metafile = true
+
+[[files]]
+file = "mods/jade.pw.toml"
+hash = "25ec6d75fd9d733ebeb588f63f58c0c13fb90844d4a470537d81052d2ea0f1bc"
+metafile = true
+
+[[files]]
 file = "mods/journeymap-integration.pw.toml"
 hash = "554c251c4c004a5139b1223265c1e49e533df5977442f0531bec8dd4d30d3860"
 metafile = true
@@ -209,8 +235,18 @@ hash = "94d853ec0def62adb527aee046f2c4a32127076c2995ea5c29553534544e1c35"
 metafile = true
 
 [[files]]
+file = "mods/memoryleakfix.pw.toml"
+hash = "ecaf5c678d92a4cfa57369fec17abd9e34c44bed705f1fcdd1eb1caa4a791a4d"
+metafile = true
+
+[[files]]
 file = "mods/moonlight.pw.toml"
 hash = "db95fe7b730899ce60f3c8cbbf8cf22c8c10d7a1873041d579fe47c587870d33"
+metafile = true
+
+[[files]]
+file = "mods/mouse-tweaks.pw.toml"
+hash = "9cba22bdbc8c89d44438b1e22ae677f7d6bf1c7f1adecfff2760427f2d974dee"
 metafile = true
 
 [[files]]
@@ -244,11 +280,6 @@ hash = "f0584d99220f2d315552d96b87d4f13e50034a40353b95d1f2b8fda68effab85"
 metafile = true
 
 [[files]]
-file = "mods/patchouli.pw.toml"
-hash = "e0cbe5dbdbece52f9471e318cabec09569b95c35ed72e568b015e2d9c5d3c9dc"
-metafile = true
-
-[[files]]
 file = "mods/polymorph.pw.toml"
 hash = "44763cc5da2665b6e981cad902af6e0182fa50b897470b4e17b525cdeec1df6b"
 metafile = true
@@ -256,6 +287,11 @@ metafile = true
 [[files]]
 file = "mods/quark.pw.toml"
 hash = "3a93e28b2b0513b79c99e21002adb2cac916860daee87f516b382708a78ae282"
+metafile = true
+
+[[files]]
+file = "mods/raised.pw.toml"
+hash = "01022296b9b7cec00cca20c0b18e08ff07541190abd49d238c2ecfdc8b9e9f42"
 metafile = true
 
 [[files]]
@@ -284,6 +320,11 @@ hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
 metafile = true
 
 [[files]]
+file = "mods/shulkerboxtooltip.pw.toml"
+hash = "0c46a01c1d0f42567b0a52fda261e1f35e583d6d74df000146a2892a96058bba"
+metafile = true
+
+[[files]]
 file = "mods/sophisticated-backpacks.pw.toml"
 hash = "5b1a78ae497977fdd1a0f9068368f4806bcd8cc627bfa6c947e0f5fcec2961be"
 metafile = true
@@ -299,6 +340,11 @@ hash = "1e9fea26510cbc2ec8f64aa1049cba2016e48b78882949730160d5b501dcce95"
 metafile = true
 
 [[files]]
+file = "mods/sound-physics-remastered.pw.toml"
+hash = "7b4458a7677e9fa9ba063949798313169aa34caad56cd69b0d529c8287e4b325"
+metafile = true
+
+[[files]]
 file = "mods/starlight-forge.pw.toml"
 hash = "f8f7cbc0daf05063e9d314d9492a87b2484d97e812a418d9a07b9099bb664021"
 metafile = true
@@ -306,6 +352,11 @@ metafile = true
 [[files]]
 file = "mods/supplementaries.pw.toml"
 hash = "2c43beff98a8f7e62b83dfa201d10ab0e563befcb8c2c4588d3c778d9e99d0cc"
+metafile = true
+
+[[files]]
+file = "mods/tax-free-levels.pw.toml"
+hash = "6da031d80eabe733bc6e5acd2c0c4096b20a7db39520305b493e0d98d5184a4a"
 metafile = true
 
 [[files]]
@@ -346,11 +397,6 @@ metafile = true
 [[files]]
 file = "mods/waystones.pw.toml"
 hash = "13bb623253a2afb39fb4577d110ac9c14c4ed5bd42ef37fed99f71cd0974a1ee"
-metafile = true
-
-[[files]]
-file = "mods/wthit.pw.toml"
-hash = "e01c79424f10d3b3a362352eb268aa893a08ee14d3ea947dc5c1adcbcd02fcfb"
 metafile = true
 
 [[files]]

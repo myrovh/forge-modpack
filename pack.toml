@@ -1,12 +1,12 @@
 name = "Myrovh's Modpack (forge)"
 author = "myrovh"
-version = "0.6.3"
+version = "0.7.0"
 pack-format = "packwiz:1.1.0"
 
 [index]
 file = "index.toml"
 hash-format = "sha256"
-hash = "31ada120d537e3e94ca4f08e66096d64f311e5f065d849c1da2dcd49c1712f8a"
+hash = "38487a43264d828995efb42dc3a83f656d58f631214ad383a75e5610e7661fe5"
 
 [versions]
 forge = "43.2.11"
