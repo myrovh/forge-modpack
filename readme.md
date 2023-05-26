@@ -37,6 +37,7 @@
 - [Yung's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
 - [Yung's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 - [Yung's Extras](https://modrinth.com/mod/yungs-extras)
+- [Explorify](https://modrinth.com/datapack/explorify)
 
 ## Mobs
 
@@ -81,7 +82,9 @@
 - [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
 - [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
+- [Shutup Experimental Settings!](https://www.curseforge.com/minecraft/mc-mods/shutup-experimental-settings)
 - [Paxi](https://modrinth.com/mod/paxi): Automatic data & resource pack loading made easy.
+- [Bluemap](https://modrinth.com/plugin/bluemap)
 
 ## Sound
 

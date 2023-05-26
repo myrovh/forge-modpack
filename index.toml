@@ -34,7 +34,7 @@ hash = "5b50466ac66670989c91df4ad26553cb3a1bb6a513f1d4e871493f550935b3ae"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_1.json5"
-hash = "0e53d280eb90fb3c42f66b0ce58d4e08e638a51d676671ee5588846da14f70b8"
+hash = "7f9d8e68e70983538b48e8320a63746a8b3ca1c9d421ec94f8a96b186757b1d9"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/beach_biomes/beach_biomes_vanilla.json5"
@@ -106,7 +106,7 @@ hash = "1af3e3dfc20312ec48227dec225ad4ef2922e5b5fb3e402be3e56ffae73514dd"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_1.json5"
-hash = "64c5aedfd14d6b7a1e33a5c46b42d074c03fb2d45d7a100365f90d22ce7c781b"
+hash = "b5547bc656fc5c2dbc1b1c652832ac1afc0d5c1da5d01adaa30b08ce59381d16"
 
 [[files]]
 file = "config/byg/overworld/biome_selectors/slope_biomes/slope_biomes_vanilla.json5"
@@ -159,6 +159,11 @@ hash = "41d67c154ef31be1827ade81ef53d34180fcf8b9bbe168405f0d70d8c085a679"
 [[files]]
 file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
+
+[[files]]
+file = "config/paxi/datapacks/explorify.pw.toml"
+hash = "911b318e272b663feb657fb1f2e297b5d3b0ea8e8bcccd1c9d5b68e0899e5cf1"
+metafile = true
 
 [[files]]
 file = "config/paxi/resourcepack_load_order.json"
@@ -336,11 +341,6 @@ metafile = true
 [[files]]
 file = "mods/expandability.pw.toml"
 hash = "adc6e2f6c5d3363f466dd8ba72a6679bed6567b239b7143fd5e7064611e14095"
-metafile = true
-
-[[files]]
-file = "mods/explorify.pw.toml"
-hash = "911b318e272b663feb657fb1f2e297b5d3b0ea8e8bcccd1c9d5b68e0899e5cf1"
 metafile = true
 
 [[files]]
