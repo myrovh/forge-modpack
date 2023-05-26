@@ -28,8 +28,15 @@
 
 - [Oh The Biomes You'll Go](https://modrinth.com/mod/biomesyougo)
 - [Excavated Variants](https://modrinth.com/mod/excavated_variants): Automatically add ore types for stone variants
-- [Chunky Pregenerator](https://modrinth.com/mod/chunky): Tools to pregenerate
-  chunks
+- [Chunky Pregenerator](https://modrinth.com/mod/chunky): Tools to pregenerate chunks
+- [Yung's Better Dungeons](https://modrinth.com/mod/yungs-better-dungeons)
+- [Yung's Better Mineshafts](https://modrinth.com/mod/yungs-better-mineshafts)
+- [Yung's Better Strongholds](https://modrinth.com/mod/yungs-better-strongholds)
+- [Yung's Better Desert Temples](https://modrinth.com/mod/yungs-better-desert-temples)
+- [Yung's Better Ocean monuments](https://modrinth.com/mod/yungs-better-ocean-monuments)
+- [Yung's Better Nether Fortresses](https://modrinth.com/mod/yungs-better-nether-fortresses)
+- [Yung's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
+- [Yung's Extras](https://modrinth.com/mod/yungs-extras)
 
 ## Mobs
 
@@ -74,6 +81,7 @@
 - [FTB Ultimine](https://www.curseforge.com/minecraft/mc-mods/ftb-ultimine-forge)
 - [FTB Chunks](https://www.curseforge.com/minecraft/mc-mods/ftb-chunks-forge)
 - [Tax Free Levels](https://modrinth.com/mod/tax-free-levels)
+- [Paxi](https://modrinth.com/mod/paxi): Automatic data & resource pack loading made easy.
 
 ## Sound
 
@@ -92,3 +100,4 @@
 - [Terrablender](https://modrinth.com/mod/terrablender)
 - [CorgiLib](https://modrinth.com/mod/corgilib)
 - [GeckoLib](https://modrinth.com/mod/geckolib)
+- [Yung's API](https://modrinth.com/mod/yungs-api)
