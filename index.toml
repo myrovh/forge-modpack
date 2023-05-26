@@ -161,16 +161,6 @@ file = "config/paxi/datapack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
-file = "config/paxi/datapacks/explorify.pw.toml"
-hash = "911b318e272b663feb657fb1f2e297b5d3b0ea8e8bcccd1c9d5b68e0899e5cf1"
-metafile = true
-
-[[files]]
-file = "config/paxi/datapacks/geophilic.pw.toml"
-hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
-metafile = true
-
-[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -349,6 +339,11 @@ hash = "adc6e2f6c5d3363f466dd8ba72a6679bed6567b239b7143fd5e7064611e14095"
 metafile = true
 
 [[files]]
+file = "mods/explorify.pw.toml"
+hash = "911b318e272b663feb657fb1f2e297b5d3b0ea8e8bcccd1c9d5b68e0899e5cf1"
+metafile = true
+
+[[files]]
 file = "mods/ferrite-core.pw.toml"
 hash = "ed6f0207affbcdbc338b0af19a596451230a25255f425b3b4670a0104368c95c"
 metafile = true
@@ -376,6 +371,11 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
+metafile = true
+
+[[files]]
+file = "mods/geophilic.pw.toml"
+hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
 metafile = true
 
 [[files]]
@@ -496,6 +496,11 @@ metafile = true
 [[files]]
 file = "mods/rubidium.pw.toml"
 hash = "7f54229e7a746ed90deef5113f2def2e265928ec6fb1d8a52bd551a8f4b1d50d"
+metafile = true
+
+[[files]]
+file = "mods/serversleep.pw.toml"
+hash = "18ef9ed32b347bee4e121c66c8bd88459bd21cb3c83a7d8c3f222ad9e45a67d6"
 metafile = true
 
 [[files]]
