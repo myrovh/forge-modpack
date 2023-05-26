@@ -165,6 +165,11 @@ file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
 [[files]]
+file = "config/paxi/resourcepacks/default-dark-mode.pw.toml"
+hash = "b9f6961e8ede891072ef0dcb212bce67a414bfcb9872b17a897582a0883f9804"
+metafile = true
+
+[[files]]
 file = "config/quark-common.toml"
 hash = "619d1bbb58990ac82dae539173bda19a3385bcf138d50b1eaa620b2d08fdc0ed"
 

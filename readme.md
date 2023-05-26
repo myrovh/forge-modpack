@@ -98,6 +98,7 @@
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons): See hundreds of
   chunks **optional** won't work with oculus
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
+- [Default Dark Mode](https://modrinth.com/resourcepack/default-dark-mode)
 
 ## Libs
 
