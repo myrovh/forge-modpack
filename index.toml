@@ -276,7 +276,7 @@ metafile = true
 
 [[files]]
 file = "mods/oculus.pw.toml"
-hash = "0731235f6cb600e85d08dee3d1d9f454a218b6b152fbc456319b2313cfe285f5"
+hash = "45a0c59d53a3b600c0c37d852d656474102e3fe1b6d7a97a503f4d970fdce27b"
 metafile = true
 
 [[files]]
@@ -437,14 +437,4 @@ metafile = true
 [[files]]
 file = "mods/yungs-extras.pw.toml"
 hash = "d24a314558cf5a7f38417e99d558d90b88264ddff17c9d8f825d0b743aa55bf1"
-metafile = true
-
-[[files]]
-file = "resourcepacks/creeper-overhaul-overhaul.pw.toml"
-hash = "e2c53e78f6f114af2a8f2039eb76ae4c948bb0d524b002466f3a2523f5d9db1b"
-metafile = true
-
-[[files]]
-file = "resourcepacks/incendium-optional-resourcepack.pw.toml"
-hash = "bd5fade9512e1e1d535c51c8bcfbb30ea3520d474df61494c85460390f2a7280"
 metafile = true
