@@ -166,6 +166,11 @@ hash = "911b318e272b663feb657fb1f2e297b5d3b0ea8e8bcccd1c9d5b68e0899e5cf1"
 metafile = true
 
 [[files]]
+file = "config/paxi/datapacks/geophilic.pw.toml"
+hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
+metafile = true
+
+[[files]]
 file = "config/paxi/resourcepack_load_order.json"
 hash = "d0aaf3172f34275479f0669aa5b0a94b85788ae638f3062b948ec49d31c38293"
 
@@ -371,11 +376,6 @@ metafile = true
 [[files]]
 file = "mods/geckolib.pw.toml"
 hash = "cf303e609b0beaf097122eecfa869d21be642e22465021f4f5aa0fa38c72b119"
-metafile = true
-
-[[files]]
-file = "mods/geophilic.pw.toml"
-hash = "5d5e6d15156b2452e86faf869b21643a7cf5e90af7747071044500adba22c305"
 metafile = true
 
 [[files]]

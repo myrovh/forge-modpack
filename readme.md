@@ -38,6 +38,7 @@
 - [Yung's Better Witch Huts](https://modrinth.com/mod/yungs-better-witch-huts)
 - [Yung's Extras](https://modrinth.com/mod/yungs-extras)
 - [Explorify](https://modrinth.com/datapack/explorify)
+- [Geophilic](https://modrinth.com/datapack/geophilic)
 
 ## Mobs
 
