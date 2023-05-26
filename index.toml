@@ -55,6 +55,11 @@ hash = "542a647e3896384f3cd04c4ea2006bb927ab355cd85f8205af45f32f9e2aa13c"
 metafile = true
 
 [[files]]
+file = "mods/biomesyougo.pw.toml"
+hash = "61b4ae9dab087d30cae5056f75f6c00258bf7b0f84bb6ca492df24de3b4d685d"
+metafile = true
+
+[[files]]
 file = "mods/caelus.pw.toml"
 hash = "1d51fa0d3f0ca14c66f425643120f147d5eec29d48c5ac595351db20cdf9ee75"
 metafile = true
@@ -92,6 +97,11 @@ metafile = true
 [[files]]
 file = "mods/configured.pw.toml"
 hash = "38abb00776d34d4c650c59ef4a75a6562c96f914cbe17f09f176a682f23fd883"
+metafile = true
+
+[[files]]
+file = "mods/corgilib.pw.toml"
+hash = "220ae758bfe2ccea4beac72a553461d0fa8b9863094ba67cb90b065dfc3ceeca"
 metafile = true
 
 [[files]]
@@ -202,11 +212,6 @@ metafile = true
 [[files]]
 file = "mods/gravestone-mod.pw.toml"
 hash = "b6e8ce03539086dd35fe1a87295bde0a70302c73a97c4cf11da7329ab2f68340"
-metafile = true
-
-[[files]]
-file = "mods/incendium.pw.toml"
-hash = "38277c071e79128e516e6f83322775dfd2324a21c4812453e02067b23e3f3b09"
 metafile = true
 
 [[files]]
@@ -360,28 +365,13 @@ hash = "6da031d80eabe733bc6e5acd2c0c4096b20a7db39520305b493e0d98d5184a4a"
 metafile = true
 
 [[files]]
-file = "mods/tectonic.pw.toml"
-hash = "066c8f73363ff93fcd59f703d918350044b605f5709d03dbcad58f66d223a959"
-metafile = true
-
-[[files]]
-file = "mods/terralith.pw.toml"
-hash = "610281b70252ad2359481d23b9774418032aee99b72defae529c8b32c0166e13"
+file = "mods/terrablender.pw.toml"
+hash = "b49aeab89f0272bb8bbce57a78dfa561df908c5dcd320635a4736899f1e83e57"
 metafile = true
 
 [[files]]
 file = "mods/textrues-rubidium-options.pw.toml"
 hash = "632ce3ec0298e24e0cf00447bd67fb1a9a28342e998018a1daa29d453b9de02a"
-metafile = true
-
-[[files]]
-file = "mods/treeplacer-terralith-addon.pw.toml"
-hash = "0894efc16ab156716603b1869d2e6fdadad26b84392ecffaafc4404e5f8ece49"
-metafile = true
-
-[[files]]
-file = "mods/treeplacer.pw.toml"
-hash = "3ddaceb8c97aa98bbd350a743f681b5d2f9d752b510e69573df62249ca90adaf"
 metafile = true
 
 [[files]]

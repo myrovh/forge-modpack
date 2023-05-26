@@ -26,10 +26,7 @@
 
 ## Worldgen
 
-- [Terralith](https://modrinth.com/mod/terralith)
-- [Incendium](https://modrinth.com/mod/incendium)
-- [Treeplacer](https://modrinth.com/mod/treeplacer)
-- [Treeplacer - Terralith Addon](https://modrinth.com/datapack/treeplacer-terralith-addon)
+- [Oh The Biomes You'll Go](https://modrinth.com/mod/biomesyougo)
 - [Excavated Variants](https://modrinth.com/mod/excavated_variants): Automatically add ore types for stone variants
 - [Chunky Pregenerator](https://modrinth.com/mod/chunky): Tools to pregenerate
   chunks
@@ -87,9 +84,11 @@
 
 - [Distant Horizons](https://modrinth.com/mod/distanthorizons): See hundreds of
   chunks **optional** won't work with oculus
-- [Incendium Optional Resourcepack](https://modrinth.com/resourcepack/incendium-optional-resourcepack)
 - [Entity Model Features](https://modrinth.com/mod/entity-model-features)
 
 ## Libs
 
 - [Resourceful Config](https://modrinth.com/mod/resourceful-config)
+- [Terrablender](https://modrinth.com/mod/terrablender)
+- [CorgiLib](https://modrinth.com/mod/corgilib)
+- [GeckoLib](https://modrinth.com/mod/geckolib)
